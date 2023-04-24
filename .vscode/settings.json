@@ -1,14 +1,10 @@
 {
-    "editor.formatOnSave": true,
-    "eslint.validate": [
-        "javascript",
-        "svelte"
-    ],
-    "editor.defaultFormatter": "esbenp.prettier-vscode",
-    "[svelte]": {
-        "editor.defaultFormatter": "svelte.svelte-vscode"
-    },
-    "eslint.codeAction.disableRuleComment": {
-        "enable": false
-    },
+  "editor.formatOnSave": true,
+  "eslint.validate": ["javascript", "svelte"],
+  "[svelte]": {
+    "editor.defaultFormatter": "svelte.svelte-vscode"
+  },
+  "eslint.codeAction.disableRuleComment": {
+    "enable": true
+  }
 }

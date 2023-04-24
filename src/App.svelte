@@ -1,5 +1,7 @@
 <script>
-  let name = "test";
+  let name = "James";
+
+  console.log("Hello, cruel world");
 </script>
 
 <main>
